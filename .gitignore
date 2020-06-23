@@ -1,0 +1,25 @@
+.gitignore
+
+
+# Local configurations
+app_config.cfg
+db_config.json
+data_folders.json
+
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+
+# Other
+*.sql
+*~
+*.log
+
+# Directories
+data/
+output/
+
+venv
+
