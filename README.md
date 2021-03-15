@@ -11,7 +11,7 @@ You are also most welcome to contribute to extend the code.
 If you plan to test this whole repository for your project: 
 
 1. Start by running 'run_update_from_new_legs.py':
-Detects full door-to-door trips from the input trip-segments, and then computes alternative paths for those trips using different modes of transport (i.e. public transport, bike, and walk):
+2. Detects full door-to-door trips from the input trip-segments, and then computes alternative paths for those trips using different modes of transport (i.e. public transport, bike, and walk):
 
 Use 'run_update_from_new_legs_parallel.py' instead, to considerably speedup the process when you have a large amount of data.
 
