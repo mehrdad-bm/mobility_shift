@@ -38,6 +38,8 @@ The 'dal' package contains all the SQL code and database interface.
 The 'commonlayer' package contains HTTP REST API code.
 
 The important 'pyfiles.common.otp_trip_planner' module uses OpenTripPlanner (OTP) to compute detailed origin-destination trip paths according to the desired mode of transportation.
+OTP is a powerful tool but can be tricky to use. See how it is used in this repository for tips and tricks and to get ideas. The code is faily documented.
+
 
 
 
