@@ -31,8 +31,13 @@ You can write your own visualization code and also use plotting functions alread
 
 ************* Code Guide *****************
 
+The 'tslib' package contains handy modules for analysis of trip-segments, advanced visualization, etc. These modules have been imported and used throughout the code.
+
+The 'dal' package contains all the SQL code and database interface.
+
+The 'commonlayer' package contains HTTP REST API code.
+
 The important 'pyfiles.common.otp_trip_planner' module uses OpenTripPlanner (OTP) to compute detailed origin-destination trip paths according to the desired mode of transportation.
 
-In the 'tslib' package, you'll find handy modules for analysis of trip legs, advanced visualization, etc. These modules have been imported and used throughout the code.
 
 
