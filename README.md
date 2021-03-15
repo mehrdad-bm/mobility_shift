@@ -1,5 +1,6 @@
+# Mobile Systems for Time-relevant Modal shift
 
-
+## Use and Contribute
 We hope this repository inspires further developments in the field of Smart Mobility and Data Analysis for Intelligent Transportation.
 
 Please acknowledge and cite this repository if you use the code. 
@@ -7,8 +8,7 @@ Please acknowledge and cite this repository if you use the code.
 You are also most welcome to contribute to extend the code.
 
 
-************* How to Use ****************
-
+## How to Use
 If you plan to test this whole repository for your project: 
 
 1. Start by running 'run_update_from_new_legs.py':
@@ -28,9 +28,7 @@ Prepares session data suitable for analysis and visualization.
 You can write your own visualization code and also use plotting functions already available in the 'tslib' package. 
 
 
-
-************* Code Guide *****************
-
+## Code Guide
 The 'tslib' package contains handy modules for analysis of trip-segments, advanced visualization, etc. These modules have been imported and used throughout the code.
 
 The 'dal' package contains all the SQL code and database interface.
