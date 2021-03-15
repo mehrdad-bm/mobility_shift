@@ -7,6 +7,7 @@ You are also most welcome to contribute to extend the code.
 
 
 ************* How to Use ****************
+
 If you plan to test this whole repository for your project: 
 
 1. Start by running 'run_update_from_new_legs.py':
@@ -25,6 +26,7 @@ You can write your own visualization code and also use plotting functions alread
 
 
 ************* Code Guide *****************
+
 The important 'pyfiles.common.otp_trip_planner' module uses OpenTripPlanner (OTP) to compute detailed origin-destination trip paths according to the desired mode of transportation.
 
 In the 'tslib' package, you'll find handy modules for analysis of trip legs, advanced visualization, etc. These modules have been imported and used throughout the code.
