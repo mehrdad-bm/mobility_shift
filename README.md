@@ -5,7 +5,7 @@ We hope this repository inspires further developments in the field of Smart Mobi
 
 Please acknowledge and cite this repository if you use the code. 
 
-You are also most welcome to contribute to extend the code.
+You are also most welcome to contribute and extend the code.
 
 
 ## How to Use
