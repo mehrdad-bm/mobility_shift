@@ -1,6 +1,6 @@
 # Mobile Systems for Time-relevant Modal shift
 
-## Use and Contribute
+## Use, Contribute, and Extend!
 We hope this repository inspires further developments in the field of Smart Mobility and Data Analysis for Intelligent Transportation.
 
 Please acknowledge and cite this repository if you use the code. 
