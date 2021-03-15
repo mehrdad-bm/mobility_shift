@@ -1,4 +1,4 @@
-# Mobile Systems for Time-relevant Modal shift
+# Using Mobile Data for Time-relevant Modal-shift Analysis
 
 ## Use, Contribute, and Extend!
 We hope this repository inspires further developments in the field of Smart Mobility and Data Analysis for Intelligent Transportation.
