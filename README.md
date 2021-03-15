@@ -8,7 +8,7 @@ Please acknowledge and cite this repository if you use the code.
 You are also most welcome to contribute to extend the code.
 
 
-#************* How to Use ****************
+# ************* How to Use ****************
 
 If you plan to test this whole repository for your project: 
 
