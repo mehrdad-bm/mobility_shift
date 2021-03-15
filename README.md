@@ -1,4 +1,4 @@
-# Using Mobile Data for Time-relevant Modal-shift Analysis
+# Using Mobile Data for Travel Behavior and Modal-shift Analysis
 
 ## Use, Contribute, and Extend!
 We hope this repository inspires further developments in the field of Smart Mobility and Data Analysis for Intelligent Transportation.
