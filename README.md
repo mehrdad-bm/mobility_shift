@@ -26,27 +26,29 @@ You are also most welcome to contribute and extend the code.
 ## How to Use
 If you plan to test this whole repository for your project: 
 
-1. Start by running 'run_update_from_new_legs.py':
+1. Start by running either 'run_update_from_new_legs.py' or 'run_update_from_new_legs_parallel.py':
 
-Detects full door-to-door trips from the input trip-segments, and then computes alternative paths for those trips using different modes of transport (i.e. public transport, bike, and walk):
-Use 'run_update_from_new_legs_parallel.py' instead, to considerably speedup the process when you have a large amount of data.
+Detects full door-to-door trips from the input trip-segments, and then computes alternative paths for those trips using different modes of transport (i.e. public transport, bike, and walk).
+
+The 'run_update_from_new_legs_parallel.py' considerably speeds up the process when you have a large amount of data.
 
 
 2. Run 'run_session_prepare_data.py' e.g. in your Spyder IDE:
 
 Gets the essential variables and datasets ready, for further analysis and visualization.
 
-    All the loaded and filtered data goes into one global object: session_data_global    
-    session_data_global contains:
-        observed_trips: The result of trip extraction from the recorded legs.
-                        mainmode is the transportation mode that makes at least 70% of the total travel distance of the trip
-                        Check other important attributes, that are self explanatory by their name.
-        computed_trips: The results parsed and saved from OTP queries
-        				...
-        deltas: The result of comparing computed trips with the observed trips.
-        				...
-                        
-        daily_weather_...:         
+All the loaded and filtered data goes into one global object: 'session_data_global'   
+
+'session_data_global' contains:
+observed_trips: The result of trip extraction from the recorded legs.
+                mainmode is the transportation mode that makes at least 70% of the total travel distance of the trip
+                Check other important attributes, that are self explanatory by their name.
+computed_trips: The results parsed and saved from OTP queries
+                ...
+deltas: The result of comparing computed trips with the observed trips.
+                ...
+
+daily_weather_...:         
 
 
 
