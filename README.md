@@ -1,6 +1,6 @@
 # Using Mobile Data for Travel Behavior and Modal-shift Analysis
 
-* This Readme is under-construction! *
+** This Readme is under-construction! **
 
 ## Description
 This is a prototype of a computational framework to analyze daily urban mobility and the potential of shifting from car to public transport, bike and walk. 
