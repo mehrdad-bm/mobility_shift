@@ -16,11 +16,9 @@ Three main factors are of the interest:
 
 
 ## Use, Contribute, and Extend!
-We hope this repository inspires further developments in the field of Smart Mobility and Data Analysis for Intelligent Transportation.
+You are most welcome to contribute and extend the code. I hope this repository inspires further development in the field of Smart Mobility and Data Analysis for Intelligent Transportation.
 
 Please acknowledge and cite this repository if you use the code. 
-
-You are also most welcome to contribute and extend the code.
 
 
 ## How to Use
