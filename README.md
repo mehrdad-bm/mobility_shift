@@ -9,10 +9,12 @@ The ongoing mobility pattern in the target city is inferred from anonymous long-
 
 The potential future mobility pattern is computed using route planning algorithms, particularly via OpenTripPlanner together with online public transport API.
 
-Three main factors are of the interest:
+Three main interrelated factors to analyze:
 - Travel-time
 - Carbon emission
 - Distance traveled with bike or by walking (Physically-active distance)
+
+It is also possible to dig in several other factors.
 
 
 ## Use, Contribute, and Extend!
@@ -24,19 +26,19 @@ Please acknowledge and cite this repository if you use the code.
 ## How to Use
 If you plan to test this whole repository for your project: 
 
-1. Start by running either 'run_update_from_new_legs.py' or 'run_update_from_new_legs_parallel.py':
+1. Start by running either *run_update_from_new_legs.py* or *run_update_from_new_legs_parallel.py*:
 
 Detects full door-to-door trips from the input trip-segments, and then computes alternative paths for those trips using different modes of transport (i.e. public transport, bike, and walk).
 
-'run_update_from_new_legs_parallel.py' considerably speeds up the process when you have a large amount of data.
+*run_update_from_new_legs_parallel.py* considerably speeds up the process when you have a large amount of data.
 
-2. Run 'run_session_prepare_data.py' e.g. in your Spyder IDE:
+2. Run *run_session_prepare_data.py* e.g. in your Spyder IDE:
 
-Gets the essential variables and datasets ready, for further analysis and visualization.
+Gets the essential variables and datasets ready for further analysis and visualization.
 
-All the loaded and filtered data goes into one global object: 'session_data_global'   
+All the loaded and filtered data goes into one global object: *session_data_global*
 
-'session_data_global' contains:
+*session_data_global* object contains:
 
 - observed_trips: The result of trip extraction from the recorded legs.
                 mainmode is the transportation mode that makes at least 70% of the total travel distance of the trip
