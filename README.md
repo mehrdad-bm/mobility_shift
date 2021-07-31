@@ -17,7 +17,7 @@ Observed travel patterns vs. Temperature | Observed travel patterns vs. Precipit
 
 
 Observed vs Potential future patterns |
------------- | 
+------------ |
 ![travel-time range by month](plots/paper2-fig9b-r.png) |
 (PT = Public Transportation)
 
