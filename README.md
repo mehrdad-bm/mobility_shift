@@ -16,6 +16,12 @@ Three main interrelated factors to analyze:
 
 It is also possible to dig in several other factors.
 
+### Example Outputs
+
+Travel behavior vs. Temperature | Travel behavior vs. Precipitation
+------------ | -------------
+![modes by temperature](plots/fig11a.png) | ![modes by rain](plots/fig11b.png)
+
 
 ## Use, Contribute, and Extend!
 You are most welcome to contribute and extend the code. I hope this repository inspires further development in the field of Smart Mobility and Data Analysis for Intelligent Transportation.
