@@ -20,7 +20,7 @@ Observed travel patterns vs. Temperature | Observed travel patterns vs. Precipit
 
 Observed vs Potential future patterns |
 ------------ | 
-![travel-time range by month](plots/paper2-fig9b.png) |
+![travel-time range by month](plots/paper2-fig9b-r.png) |
 
 
 Potential future outcome by shifting to public transport | Potential future outcome by shifting to bike
