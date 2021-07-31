@@ -30,11 +30,13 @@ Potential future outcome by shifting to public transport | Potential future outc
 
 
 ## Use, Contribute, and Extend!
-You are most welcome to contribute and extend the code. I hope this repository inspires further development in the field of Smart Mobility and Data Analysis for Intelligent Transportation.
+Pull requests are welcome!
+
+Contact for questions: bagheri_mehrdad@hotmail.com
 
 Please acknowledge and cite this repository if you use the code. 
 
-Contact for questions: bagheri_mehrdad@hotmail.com
+I hope this repository inspires further development in the field of Smart Mobility and Data Analysis for Intelligent Transportation.
 
 
 ## How to Use
