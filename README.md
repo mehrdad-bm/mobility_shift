@@ -1,26 +1,32 @@
 # Using Mobile Data for Travel Behavior and Modal-shift Analysis
 
-*This Readme is under-construction!*
-
 ## Description
-This is a prototype of a computational framework to analyze daily urban mobility and the potential of shifting from car to public transport, bike and walk. 
-
-The ongoing mobility pattern in the target city is inferred from anonymous long-term GPS traces.
-
-The potential future mobility pattern is computed using route planning algorithms, particularly via OpenTripPlanner together with online public transport API.
+This is a prototype of a computational framework to analyze daily urban mobility and the potential of shifting from car to public transport, bike and walk. The ongoing mobility pattern in the target city is inferred from anonymous long-term GPS traces. The potential future mobility pattern is computed using route planning algorithms, particularly via OpenTripPlanner together with online public transport API.
 
 Three main interrelated factors to analyze:
 - Travel-time
 - Carbon emission
 - Distance traveled with bike or by walking (Physically-active distance)
 
-It is also possible to dig in several other factors.
+It is also possible to dig into several other factors.
 
 ### Example Outputs
 
-Travel behavior vs. Temperature | Travel behavior vs. Precipitation
+Observed travel patterns vs. Temperature | Observed travel patterns vs. Precipitation
 ------------ | -------------
 ![modes by temperature](plots/fig11a.png) | ![modes by rain](plots/fig11b.png)
+(PT = Public Transportation)
+
+
+Observed vs Potential future patterns |
+------------ | 
+![travel-time range by month](plots/paper2-fig9b.png) |
+
+
+Potential future outcome by shifting to public transport | Potential future outcome by shifting to bike
+------------ | ------------
+![3d plot](plots/paper2-fig14a.png) | ![3d plot](plots/paper2-fig14b.png)
+
 
 
 ## Use, Contribute, and Extend!
