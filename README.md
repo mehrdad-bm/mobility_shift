@@ -8,7 +8,7 @@ Three main interrelated factors to analyze:
 
 It is also possible to dig into several other factors.
 
-### Example Outputs
+### Example Outputs based on the data collected in Helsinki
 
 Observed travel patterns vs. Temperature | Observed travel patterns vs. Precipitation
 ------------ | -------------
@@ -21,6 +21,11 @@ Observed vs Potential future patterns |
 ![travel-time range by month](plots/paper2-fig9b-r.png) |
 (PT = Public Transportation)
 
+
+Potential future CO2 reduction | Potential future increase in physicall activity
+------------ | ------------
+![3d plot](plots/paper2-fig17a.png) | ![3d plot](plots/paper2-fig18a.png)
+(PT = Public Transportation)
 
 
 Potential future outcome by shifting to public transport | Potential future outcome by shifting to bike
