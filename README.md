@@ -24,11 +24,11 @@ Observed vs Potential future patterns |
 
 Potential CO2 reduction after shifting from car | Potential increase in physical activity after shifting from car
 ------------ | ------------
-![3d plot](plots/paper2-fig17a.png) | ![3d plot](plots/paper2-fig18a.png)
+![3d plot](plots/paper2-fig17a-r.png) | ![3d plot](plots/paper2-fig18a-r.png)
 (PT = Public Transportation)
 
 
-Potential future outcome by shifting to public transport | Potential future outcome by shifting to bike
+Potential future outcome by shifting to PT | Potential future outcome by shifting to bike
 ------------ | ------------
 ![3d plot](plots/paper2-fig14a.png) | ![3d plot](plots/paper2-fig14b.png)
 
