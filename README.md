@@ -22,7 +22,7 @@ Observed vs Potential future patterns |
 (PT = Public Transportation)
 
 
-Potential future CO2 reduction | Potential future increase in physicall activity
+Potential CO2 reduction after shifting from car | Potential increase in physical activity after shifting from car
 ------------ | ------------
 ![3d plot](plots/paper2-fig17a.png) | ![3d plot](plots/paper2-fig18a.png)
 (PT = Public Transportation)
